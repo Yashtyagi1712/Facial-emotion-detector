@@ -1,2 +1,2 @@
-# Speech-emotion-detector
-Speech emotion detector using CNN 
+# Facial-emotion-detector
+Facial emotion detector using CNN 
